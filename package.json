@@ -1,9 +1,9 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
+Je    "name": "Jefferys_Blog",
+    "title": "Jefferys Blog",
     "version": "1.0.0",
-    "homepage": "http://huxpro.github.io",
-    "author": "Hux",
+    "homepage": "http://icycrucifix.github.io",
+    "author": "IcyCrucifix",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
