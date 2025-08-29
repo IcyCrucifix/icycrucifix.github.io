@@ -8,7 +8,7 @@ catalog: true
 tags: [HKU, macOS, Mac]
 ---
 
-> 此文主要解决macOS条件下的问题，Windows/iOS等系统可参考解决方案，但文中暂无详细解决步骤（欢迎有Windows Linux Android系统机器的同学找我联系补充..感谢）
+> 此文的成功解决是在macOS系统下，Windows/iOS等系统可参考解决方案，但也许会有少量差异（欢迎有Windows Linux Android系统机器的同学找我联系补充..感谢）
 
 ## 如果你不知道：HKUVPN的作用是什么？
 
