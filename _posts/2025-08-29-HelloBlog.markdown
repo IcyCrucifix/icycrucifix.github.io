@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The start of something new"
+title:      "The Start of Something New"
 date:       2025-08-29 10:10:00
 author:     "Jeffery"
 header-img: "img/post-bg-2015.jpg"
