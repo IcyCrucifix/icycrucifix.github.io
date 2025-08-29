@@ -65,7 +65,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是不会把Windows当主力机的。"
+sidebar-about-description: "我是不会拿Windows当个人电脑的。"
 sidebar-avatar: https://avatars.githubusercontent.com/u/49339639?v=4    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
