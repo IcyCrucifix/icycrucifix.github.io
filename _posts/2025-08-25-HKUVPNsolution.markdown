@@ -3,7 +3,7 @@ layout:     post
 title:      "解决方案·HKUVPN遵循官方指南设置依然无法登陆"
 date:       2025-08-29 11:09:00
 author:     "Jeffery"
-header-img: "img/DSC06675.HIF"
+header-img: "img/HKU Grand Hall.HIF"
 catalog: true
 tags: [HKU, macOS, Mac]
 ---
