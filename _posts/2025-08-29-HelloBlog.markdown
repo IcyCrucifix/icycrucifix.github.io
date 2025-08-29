@@ -3,7 +3,7 @@ layout:     post
 title:      "The Start of Something New"
 date:       2025-08-29 10:10:00
 author:     "Jeffery"
-header-img: "img/DSC06675.HIF"
+header-img: "img/HKU Grand Hall.HIF"
 catalog: true
 tags: [Life]
 ---
