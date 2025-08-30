@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "教程·macOS环境下VScode配置LaTeX"
-date:       2025-08-31 00:03:00
+date:       2025-08-31 
 author:     "Jeffery"
 header-img: "img/VScodeBG.jpg"
 catalog: true
@@ -63,6 +63,7 @@ tags: [macOS, VScode, 教程]
 
 即。下图中左4
 
+![VScodeRun](img/VScodeRunIcons.png)
 
 或者直接按option+command+V也可以。
 
