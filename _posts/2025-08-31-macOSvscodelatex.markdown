@@ -63,7 +63,7 @@ tags: [macOS, VScode, 教程]
 
 即。下图中左4
 
-![VScodeRunIcons](img/VScode Run Icons.png)
+![VScodeRunIcons](img/VScodeRunIcons.png)
 
 或者直接按option+command+V也可以。
 
