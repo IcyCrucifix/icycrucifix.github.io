@@ -5,7 +5,7 @@ date:       2025-08-29 11:09:00
 author:     "Jeffery"
 header-img: "img/HKU Grand Hall.HIF"
 catalog: true
-tags: [HKU, macOS, Mac]
+tags: [HKU, macOS, Mac, 解决方案]
 ---
 
 > 此文的成功解决是在macOS系统下，Windows/iOS等系统可参考解决方案，但也许会有少量差异（欢迎有Windows Linux Android系统机器的同学找我联系补充..感谢）
