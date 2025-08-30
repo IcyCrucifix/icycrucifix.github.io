@@ -12,7 +12,7 @@ tags: [macOS, VScode, 教程]
 
 ***如果你并不知道LaTeX是什么：***
 
-这里是官方介绍。[Wikipedia](https://en.wikipedia.org/wiki/LaTeX) | [Baidu](https://baike.baidu.com/item/LaTeX/1212106)
+这里是官方介绍。[Wikipedia](https://en.wikipedia.org/wiki/LaTeX) , [Baidu](https://baike.baidu.com/item/LaTeX/1212106)
 
 **如果你并非macOS用户：**
 
@@ -38,7 +38,7 @@ tags: [macOS, VScode, 教程]
 
 点击VScode左列工具栏从上往下数第六个（四个方块）即可进入扩展商店。如下图搜索LaTeX并把**前两个扩展**分别点击安装即可。
 
-![VScodeLaTeXextentions](img/VScodeLaTeXsettings.png)
+![VScodeLaTeXextentions](_posts/img/VScodeLaTeXsettings.png)
 
 ### 到这里实则基础配置就已经完成了
 
@@ -63,7 +63,7 @@ tags: [macOS, VScode, 教程]
 
 即。下图中左4
 
-![VScodeRun](img/VScodeRunIcons.png)
+![VScodeRun](_posts/img/VScodeRunIcons.png)
 
 或者直接按option+command+V也可以。
 
