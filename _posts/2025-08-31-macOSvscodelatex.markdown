@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "教程·macOS环境下VScode配置LaTeX"
-date:       2025-08-30 12:00:00 
+date:       2025-08-31 12:00:00 
 author:     "Jeffery"
 header-img: "img/VScodeBG.jpg"
 catalog: true
