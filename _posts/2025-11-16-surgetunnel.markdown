@@ -3,7 +3,7 @@ layout:     post
 title:      "解决方案·如何通过Surge简单完成VPN的应用分流以同时访问校园网站和ChatGPT"
 date:       2025-11-16 20:09:00
 author:     "Jeffery"
-header-img: "img/HKU Grand Hall.HIF"
+header-img: "/img/HKU Grand Hall.HIF"
 catalog: true
 tags: [HKU, 解决方案]
 ---
