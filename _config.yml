@@ -3,7 +3,7 @@ title: Jeffery_s Blog
 SEOTitle: Jefferys Blog | 徐璟枫的博客
 header-img: img/DSC06045.jpeg
 email: xjfxujingfeng@icloud.com
-description: "我只想不那么痛苦地用一辈子macOS"
+description: "Oi"
 keyword: "HKU, 清华附中, C++, macOS"
 
 
@@ -65,7 +65,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是不会抛下macOS的。"
+sidebar-about-description: "Oi"
 sidebar-avatar: https://avatars.githubusercontent.com/u/49339639?v=4    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
