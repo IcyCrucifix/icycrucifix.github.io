@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "COMP2121 Full Study Guide"
+title:      "COMP2121: The Complete Study Guide"
 date:       2026-06-25 13:00:00
 author:     "Jeffery"
 header-img: "img/HKU Grand Hall.HIF"
