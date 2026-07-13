@@ -1,0 +1,8 @@
+{
+  "vault_path": "/Users/icycrucifix/Desktop/HKU/HKU_Obsidian",
+  "notes_root": "Lecture Notes",
+  "route_to_existing_course_folder": true,
+  "host": "127.0.0.1",
+  "port": 4317,
+  "max_upload_mb": 250
+}
